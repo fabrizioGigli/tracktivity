@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tracktivity/static/css/main.0180aecc.css",
+    "main.js": "/tracktivity/static/js/main.16d8a9c8.js",
+    "static/js/787.978abb54.chunk.js": "/tracktivity/static/js/787.978abb54.chunk.js",
+    "index.html": "/tracktivity/index.html",
+    "main.0180aecc.css.map": "/tracktivity/static/css/main.0180aecc.css.map",
+    "main.16d8a9c8.js.map": "/tracktivity/static/js/main.16d8a9c8.js.map",
+    "787.978abb54.chunk.js.map": "/tracktivity/static/js/787.978abb54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0180aecc.css",
+    "static/js/main.16d8a9c8.js"
+  ]
+}
